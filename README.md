@@ -1,3 +1,7 @@
+# Screenshots
+![ScreenShots](https://github.com/arc0825/stepper-library/blob/master/desktopstepperscreen.png)
+![ScreenShots](https://github.com/arc0825/stepper-library/blob/master/mobilestepperscreen.png)
+
 # StepperLibrary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
